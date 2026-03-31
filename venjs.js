@@ -207,7 +207,7 @@ function showProjects() {
                     <div class="col-md-6 mb-4 text-center">
                         <div class="poster-wrapper" onclick="showScreenshots('Bliss & Blessing')">
                             <img src="carousel/bb.png" class="img-fluid project-poster mb-2">
-                            <div class="image-description" style="font-size: 24px; color: red;">A clothing inventory management system developed using C# and Visual Studio...</div>
+                            <div class="image-description" style="font-size: 24px; color: white;">A clothing inventory management system developed using C# and Visual Studio...</div>
                         </div>
                         <h3 class="mt-2 text-white">Bliss & Blessing</h3>
                         <div class="mt-2">
@@ -223,7 +223,7 @@ function showProjects() {
                     <div class="col-md-6 mb-4 text-center">
                         <div class="poster-wrapper" onclick="showScreenshots('Centsible')">
                             <img src="carousel/centsible.png" class="img-fluid project-poster mb-2">
-                            <div class="image-description" style="font-size: 24px; color: red;">A digital financial management system...</div>
+                            <div class="image-description" style="font-size: 24px; color: white;">A digital financial management system...</div>
                         </div>
                         <h3 class="mt-2 text-white">Centsible</h3>
                         <div class="mt-2">
@@ -350,7 +350,7 @@ function showCertificates() {
     const html = `
         <div class="container mt-5 pt-5 animate-in">
             <div class="movie-container">
-                <h1 class="now-showing" style="color: #e50914;">Award Gallery</h1>
+                <h1 class="now-showing" style="color: #e50914;">Certificate</h1>
                 <div class="film-strip">
                     <div class="poster-wrapper">
                         <img src="certificate/frx_cert.jpg" class="screenshot-item">
