@@ -207,7 +207,7 @@ function showProjects() {
                     <div class="col-md-6 mb-4 text-center">
                         <div class="poster-wrapper" onclick="showScreenshots('Bliss & Blessing')">
                             <img src="carousel/bb.png" class="img-fluid project-poster mb-2">
-                            <div class="image-description" style="font-size: 24px; color: white;">A clothing inventory management system developed using C# and Visual Studio...</div>
+                            <div class="image-description" style="font-size: 14px; color: white;">A clothing inventory management system developed using C# and Visual Studio, powered by a Microsoft SQL Server local database. Supports multiple users and real-time inventory updates.</div>
                         </div>
                         <h3 class="mt-2 text-white">Bliss & Blessing</h3>
                         <div class="mt-2">
@@ -223,7 +223,7 @@ function showProjects() {
                     <div class="col-md-6 mb-4 text-center">
                         <div class="poster-wrapper" onclick="showScreenshots('Centsible')">
                             <img src="carousel/centsible.png" class="img-fluid project-poster mb-2">
-                            <div class="image-description" style="font-size: 24px; color: white;">A digital financial management system...</div>
+                            <div class="image-description" style="font-size: 14px; color: white;">A digital financial management system that enables users to securely manage accounts, track transactions, send money, pay bills, and monitor savings in real time.</div>
                         </div>
                         <h3 class="mt-2 text-white">Centsible</h3>
                         <div class="mt-2">
